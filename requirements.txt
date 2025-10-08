@@ -1,0 +1,9 @@
+# Microsoft Fabric dependencies
+# Add your project dependencies here
+
+# Example:
+# pandas>=2.0.0
+# numpy>=1.24.0
+# azure-identity>=1.12.0
+# requests>=2.31.0
+
